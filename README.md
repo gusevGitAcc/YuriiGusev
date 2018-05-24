@@ -11,4 +11,4 @@
 <li><a href="https://github.com/gusevGitAcc">Личная страница</a><br>
 <li><a href="https://github.com/gusevGitAcc/YuriiGusev">Личный репозиторий</a><br>
 <li><a href="https://github.com/sofiazakharova/SofiaZakharova.github.io/wiki">WiKi</a><br>
-<li><a href="https://github.com/gusevGitAcc/YuriiGusev/blob/master/index.html ">index</a></ol><br>
+<li><a href="https://YuriiGusev ">index</a></ol><br>
