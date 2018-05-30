@@ -10,5 +10,5 @@
 <ol><strong>Список ссылок на различные ресурсы:</strong><br>
 <li><a href="https://github.com/gusevGitAcc">Личная страница</a><br>
 <li><a href="https://github.com/gusevGitAcc/YuriiGusev">Личный репозиторий</a><br>
-<li><a href="https://github.com/sofiazakharova/SofiaZakharova.github.io/wiki">WiKi</a><br>
+<li><a href="https://github.com/gusevGitAcc/YuriiGusev/wiki/ABC">WiKi</a><br>
 <li><a href="https://gusevGitAcc/YuriiGusev">index</a></ol><br>
